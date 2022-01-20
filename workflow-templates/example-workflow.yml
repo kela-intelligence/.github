@@ -1,4 +1,4 @@
-name: KELA Organization CI
+name: KELA Organization Workflow
 
 on:
   push:
