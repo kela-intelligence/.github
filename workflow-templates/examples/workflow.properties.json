@@ -1,0 +1,13 @@
+{
+    "name": "KELA Organization Workflow",
+    "description": "KELA Organization CI starter workflow.",
+    "iconName": "example-icon",
+    "categories": [
+        "TypeScript"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
