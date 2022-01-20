@@ -3,7 +3,7 @@
     "description": "KELA Organization CI starter workflow.",
     "iconName": "example-icon",
     "categories": [
-        "TypeScript"
+        "Go"
     ],
     "filePatterns": [
         "package.json$",
