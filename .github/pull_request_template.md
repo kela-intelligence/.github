@@ -2,7 +2,7 @@
 
 > Describe the purpose of this PR along with any background information and the impacts of the changes, please do not assume prior context. *Feel free to copy this information from the connected issue.*
 
-### Type of change
+### Type of change (Delete irrelevant items)
 
 - [ ] Bug fix **(non-breaking change which fixes an issue)**
 - [ ] New feature **(non-breaking change which adds/improves functionality)**
@@ -12,7 +12,7 @@
 
 ### Fixes # (if relevant)
 
-> Include any issues fixed by this change [relevant GitHub issue(s) / JIRA tickets, e.g. 76]
+> Include any issues fixed by this change [relevant GitHub issue(s) / JIRA tickets, e.g. PC-76]
 
 ### How Has This Been Tested?
 
