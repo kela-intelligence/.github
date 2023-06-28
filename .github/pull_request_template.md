@@ -12,7 +12,7 @@
 
 ### Fixes # (if relevant)
 
-> Include any issues fixed by this change [relevant GitHub issue(s) / JIRA tickets, e.g. PC-76]
+> Include any issues fixed by this change [relevant GitHub issue(s) / JIRA tickets, e.g. PC-XX]
 
 ### How Has This Been Tested?
 
